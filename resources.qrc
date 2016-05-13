@@ -1,1 +1,14 @@
-<RCC/>
+<RCC>
+    <qresource prefix="/media">
+        <file>media/gallows0.png</file>
+        <file>media/gallows2.png</file>
+        <file>media/gallows3.png</file>
+        <file>media/gallows4.png</file>
+        <file>media/gallows5.png</file>
+        <file>media/gallows6.png</file>
+        <file>media/wrong.png</file>
+        <file>media/good.png</file>
+        <file>media/youWin.png</file>
+        <file>media/hangman.txt</file>
+    </qresource>
+</RCC>
